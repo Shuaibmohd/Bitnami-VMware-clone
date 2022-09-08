@@ -800,7 +800,7 @@ main ul.top-menu li a:hover {
     top: 0;
     left: 0;
     width: 100%;
-    height: 70%;
+    height: 75%;
     background: #fff;
     z-index: 2;
     box-shadow: 0px 1px 30px rgba(0, 0, 0, 0.8);
@@ -870,7 +870,7 @@ main ul.top-menu li a:hover {
     padding: 0;
     display: inline-block;
     margin-left: 1em;
-    margin-top: 1.4em;
+    margin-top: 1.2em;
 }
 
 .mobile__menu .btn-primary {
@@ -879,14 +879,6 @@ main ul.top-menu li a:hover {
     font-size: 12px;
     font-family: inherit;
 }
-
-
-
-
-
-
-
-
 
 
 /* Media Quries */
